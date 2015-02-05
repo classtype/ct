@@ -1,0 +1,37 @@
+{
+    "name": "ct",
+    "version": "1.0.2",
+    "description": "Это ООП библиотека для node.js, которая позволяет создавать полноценные классы на чистом JavaScript-е",
+    "contributors": [
+        {
+            "name": "Sergei Korenkov",
+            "email": "classtype@mail.ru"
+        },
+        {
+            "name": "Aleksandr Balyunov",
+            "email": "albalyu@gmail.com"
+        }
+    ],
+    "main": "build/ct.min.js",
+    "homepage": "http://github.com/classtype/ct",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/classtype/ct.git"
+    },
+    "bugs": {
+        "url": "http://github.com/classtype/ct/issues"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://github.com/classtype/ct/blob/master/LICENSE"
+        }
+    ],
+    "keywords": [
+        "Object-oriented programming in JavaScript",
+        "OOP",
+        "Class",
+        "Classtype",
+        "Полноценные области видимости (public, protected, private)"
+    ]
+}
