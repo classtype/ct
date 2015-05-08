@@ -1,6 +1,6 @@
 {
     "name": "ct",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "Это ООП библиотека для node.js, которая позволяет создавать полноценные классы на чистом JavaScript-е",
     "contributors": [
         {
