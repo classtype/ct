@@ -1,13 +1,13 @@
 /**
-* CT.js v.1.0.2 - Licensed under the MIT license
-* http://github.com/classtype/classtype
+* CT.js v.1.0.5 - Licensed under the MIT license
+* http://github.com/classtype/ct
 * ----------------------------------------------
 *
 * See http://github.com/classtype/ct/graphs/contributors for the full list of contributors.
 * Thank you all, you're awesome!
 * 
 * Примечание:
-* 1. В данном файле понятие тип(type) используется только для обозначения типов доступа(access type)
+*   - В данном файле понятие тип(type) используется только для обозначения типов доступа(access type)
 * 
 */
 
