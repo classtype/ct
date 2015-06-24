@@ -1,6 +1,6 @@
 {
     "name": "ct",
-    "version": "1.0.5",
+    "version": "1.0.6",
     "description": "Это ООП библиотека для node.js, которая позволяет создавать полноценные классы на чистом JavaScript-е",
     "contributors": [
         {
@@ -12,7 +12,7 @@
             "email": "albalyu@gmail.com"
         }
     ],
-    "main": "build/ct.min.js",
+    "main": "src/ct.js",
     "homepage": "http://github.com/classtype/ct",
     "repository": {
         "type": "git",
